@@ -3,3 +3,4 @@
 - olahraga
   * tenis meja
   * voli
+  * badminton
